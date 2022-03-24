@@ -3,10 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package Hogar;
 
 /**
- *
+ * <h2>Clase vivienda</h2>
+ * <p>Comentario de prueba para
+ * el trabajo de entornos de desarrollo</p>
+ * 
  * @author Paqui Elena
  */
 public class Vivienda {
